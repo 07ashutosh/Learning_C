@@ -19,7 +19,7 @@ int main() {
 
         case 'b':
         case 'B':
-            printf("Color: Blue\n","Color: Black\n");
+            printf("Color: Blue\n","Color: B\n");
             break;
 
         case 'y':
